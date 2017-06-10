@@ -1,2 +1,2 @@
-# breakoutOnline
-A free variation of Atari Breakout
+# BrickMash
+An online game
